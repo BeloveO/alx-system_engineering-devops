@@ -2,3 +2,4 @@
 1-listit- check for content of current working directory. <br />
 2-bring_me_home- go to root directory. <br />
 “3-listfiles- list current directory content in long form”
+“4-listmorefiles- list hidden current directory content in long form”
