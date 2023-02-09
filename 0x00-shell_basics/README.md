@@ -11,3 +11,4 @@
 “10-back  - move to previous directory”
 “11-lists   - list of content of current directory, parent directory and /boot directory”
 “12-file_type - get filetype”
+“13-symbolic_link - symbolic link”
