@@ -6,3 +6,4 @@
 “5-listfilesdigitonly- list hidden current directory content in long form with users IDs”
 “6-firstdirectory- create new directory”
 “7-movethatfile- move file to new folder”
+“8-firstdelete- delete file”
