@@ -29,3 +29,4 @@
 “13-symbolic_link - symbolic link”. <br />
 “14-copy_html - copy files to parent directory”.
 >>>>>>> 2b18c04200ed270547a27e3b4a5a26ab6464233c
+“101-clean_emacs- delete special files”
