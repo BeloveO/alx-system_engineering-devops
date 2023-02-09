@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name '[[:upper:]]*' -exec mv -t ~/tmp/u {} +
+mv | grep "^[A-Z]"
