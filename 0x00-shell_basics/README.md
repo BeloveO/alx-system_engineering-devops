@@ -4,3 +4,4 @@
 “3-listfiles- list current directory content in long form”
 “4-listmorefiles- list hidden current directory content in long form”
 “5-listfilesdigitonly- list hidden current directory content in long form with users IDs”
+“6-firstdirectory- create new directory”
