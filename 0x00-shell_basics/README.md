@@ -7,3 +7,4 @@
 “6-firstdirectory- create new directory”
 “7-movethatfile- move file to new folder”
 “8-firstdelete- delete file”
+“9-firstdirdeletion - delete folder”
