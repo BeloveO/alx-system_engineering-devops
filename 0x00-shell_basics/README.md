@@ -13,3 +13,4 @@
 “12-file_type - get filetype”
 “13-symbolic_link - symbolic link”
 “14-copy_html - copy files to parent directory”
+“100-lets_move- copy files starting with uppercase letters”
