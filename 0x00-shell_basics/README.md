@@ -8,3 +8,4 @@
 “7-movethatfile- move file to new folder”
 “8-firstdelete- delete file”
 “9-firstdirdeletion - delete folder”
+“10-back  - move to previous directory”
