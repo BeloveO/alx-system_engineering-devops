@@ -3,3 +3,4 @@
 “2-groups- groups the current user is a part of”
 “3-new_owner- change file owner”
 “4-empty- create empty file”
+“5-execute- give owner execution permission”
