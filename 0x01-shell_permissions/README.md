@@ -7,3 +7,4 @@
 “6-multiple_permissions- give owner and group execution permission”
 “7-everybody- give everyone execution permission”
 “8-James_Bond- give others all permissions”
+“9-John_Doe- set -rwxr-x-wx permissions”
