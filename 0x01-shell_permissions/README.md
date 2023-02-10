@@ -9,3 +9,4 @@
 “8-James_Bond- give others all permissions”
 “9-John_Doe- set -rwxr-x-wx permissions”
 “10-mirror_permissions- set mirror permissions”
+“11-directories_permissions- set subdirectories execution permissions”
