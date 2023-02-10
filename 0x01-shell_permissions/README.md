@@ -4,3 +4,4 @@
 “3-new_owner- change file owner”
 “4-empty- create empty file”
 “5-execute- give owner execution permission”
+“6-multiple_permissions- give owner and group execution permission”
