@@ -11,3 +11,4 @@
 “10-mirror_permissions- set mirror permissions”
 “11-directories_permissions- set subdirectories execution permissions”
 “12-directory_permissions- set 751 permission”
+“13-change_group- change group ownership”
