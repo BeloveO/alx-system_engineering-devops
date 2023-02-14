@@ -14,3 +14,4 @@
 “13-unique-sort words and print only uniques ones
 “14-findthatword- display lines containing ‘root’”
 “15-countthatword- count the number of lines containing ‘bin’”
+“16-whatsnext- displays line containing ‘root’ and 3 lines after them”
