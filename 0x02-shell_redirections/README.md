@@ -5,3 +5,4 @@
 “4-lastlines- displays last 10 lines
 “5-firstlines- displays first 10 lines
 “6-third_line- displays third line
+“7-file- creates new file with content
