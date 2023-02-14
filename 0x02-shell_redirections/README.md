@@ -22,3 +22,4 @@
 “21-reverse- reverses input”
 “22-users_and_homes- displays users and home directories sorted by users”
 “100-empty_casks- lists empty files and directories”
+“101-gifs- lists .gif files accordingly”
