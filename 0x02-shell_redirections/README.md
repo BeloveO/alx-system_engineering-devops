@@ -11,3 +11,4 @@
 “10-no_more_js- delete *.js files
 “11-directories- count total number of directories
 “12-newest_files-list 10 newest files accordingly
+“13-unique-sort words and print only uniques ones
