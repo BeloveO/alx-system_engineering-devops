@@ -20,3 +20,4 @@
 “19-AZ- replaces characters ‘A’ and ‘c’ with ‘Z’ and ‘e’ respectively”
 “20-hiago- deletes all instances of ‘c’ and ‘C’”
 “21-reverse- reverses input”
+“22-users_and_homes- displays users and home directories sorted by users”
