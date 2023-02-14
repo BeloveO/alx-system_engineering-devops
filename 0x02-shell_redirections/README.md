@@ -9,3 +9,4 @@
 “8-cwd_state- writes command result into a file
 “9-duplicate_last_line- duplicate last line of a file
 “10-no_more_js- delete *.js files
+“11-directories- count total number of directories
