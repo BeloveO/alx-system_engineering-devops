@@ -10,3 +10,4 @@
 “9-duplicate_last_line- duplicate last line of a file
 “10-no_more_js- delete *.js files
 “11-directories- count total number of directories
+“12-newest_files-list 10 newest files accordingly
