@@ -7,3 +7,4 @@
 “6-third_line- displays third line
 “7-file- creates new file with content
 “8-cwd_state- writes command result into a file
+“9-duplicate_last_line- duplicate last line of a file
