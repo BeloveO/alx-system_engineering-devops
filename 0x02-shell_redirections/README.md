@@ -18,3 +18,4 @@
 “17-hidethisword- displays lines that do not contain ‘bin’”
 “18-letteronly- display only lines starting with letters”
 “19-AZ- replaces characters ‘A’ and ‘c’ with ‘Z’ and ‘e’ respectively”
+“20-hiago- deletes all instances of ‘c’ and ‘C’”
