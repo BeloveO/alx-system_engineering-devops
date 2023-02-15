@@ -15,3 +15,4 @@
 “100-decimal_to_hexadecimal- convert base 10 to base 16”
 “101-rot13- encoding and decoding texts using rot13”
 “102-odd- printing out alternating lines from input”
+“103-water_and_stir- addition of numbers of two different bases and conversion into a different base”
