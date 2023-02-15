@@ -9,3 +9,4 @@
 “8-true_knowledge- Addition using the value from a variable”
 “9-divide_and_rule- divides two environment variables”
 “10-love_exponent_breath- displays the power of an environment variable to another”
+“11-binary_to_decimal- changes environment variable from base 2 to base 10”
