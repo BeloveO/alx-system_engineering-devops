@@ -13,3 +13,4 @@
 “12-combinations- Lists all possible combinations of letters except ‘oo’”
 “13-print_float- prints a number with 2 decimal places from an environment variable
 “100-decimal_to_hexadecimal- convert base 10 to base 16”
+“101-rot13- encoding and decoding texts using rot13”
