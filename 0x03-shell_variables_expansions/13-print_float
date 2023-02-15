@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($NUM + 0.00))
+echo $(($NUM%.2f))
