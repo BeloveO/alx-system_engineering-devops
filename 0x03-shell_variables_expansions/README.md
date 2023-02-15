@@ -6,3 +6,4 @@
 “5-local_variables- Lists all local and environment variables and functions”
 “6-create_local_variable- New local variable”
 “7-create_global_variable- creates new global variable”
+“8-true_knowledge- Addition using the value from a variable”
