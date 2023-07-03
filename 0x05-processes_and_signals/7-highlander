@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Displays to infinity and beyond indefinitely with 2 second sleep
+# Displays to infinity and beyond indefinitely with 2 second sleep
 #+ with "I am invincible inbetween each iteration"
 
 while true
