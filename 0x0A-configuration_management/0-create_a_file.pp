@@ -2,7 +2,7 @@
 
 file { 'create':
   ensure  => 'present',
-  path    => 'tmp/school',
+  path    => '/tmp/school',
   mode    => '0744',
   owner   => 'www-data',
   group   => 'www-data',
