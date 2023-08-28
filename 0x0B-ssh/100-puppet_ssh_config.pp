@@ -11,6 +11,6 @@ file_line { 'No passwd auth':
 file_line { 'Identity_file':
   ensure => 'present',
   path   => 'etc/ssh/ssh_config',
-  line   => 'IdentityFile ~/.ssh/school'
+  line   => 'IdentityFile ~/.ssh/school',
   match  => '^IdentityFile'
 }
