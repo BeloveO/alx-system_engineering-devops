@@ -6,8 +6,9 @@ import requests
 
 
 def number_of_subscribers(subreddit):
-    url = "https://www.reddit.com/r/{subreddit}/about.json".format(
-        subreddit=subreddit)
+    base = "https://www.reddit.com"
+    url = "{base}/r/{subreddit}/about.json".format(base=base,
+                                                   subreddit=subreddit)
     user_agent = {'User-Agent': 'Python/requests'}
     res = requests.get(url, headers=user_agent, allow_redirects=False)
     if res.status_code in [302, 404]:
