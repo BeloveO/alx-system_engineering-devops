@@ -13,6 +13,6 @@ def number_of_subscribers(subreddit):
                                                    subreddit=subreddit)
     user_agent = {'User-Agent': 'Python/requests'}
     res = requests.get(url, headers=user_agent, allow_redirects=False)
-    if subreddit is None or type(subreddit) is not str:
+    if res.status_code in [302, 404]:
         return 0
     return res
