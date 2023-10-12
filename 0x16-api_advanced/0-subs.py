@@ -6,6 +6,9 @@ import requests
 
 
 def number_of_subscribers(subreddit):
+    """
+    Returns the number of subscribers
+    """
     url = "https://www.reddit.com/dev/api/{subreddit}/about.json".format(
                                                    subreddit=subreddit)
     user_agent = {'User-Agent': 'Python/requests'}
