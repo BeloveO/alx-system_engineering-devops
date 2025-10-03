@@ -30,7 +30,7 @@ New local variable with name ``BEST``
 
 ## 7-create_global_variable
 
-creates new global variable
+creates new global variable with name ``BEST``
 
 ## 8-true_knowledge
 
