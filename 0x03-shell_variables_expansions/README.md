@@ -2,7 +2,7 @@
 
 ## 0-alias
 
-Script that creates an alias of rm *
+Script that creates an alias of ``rm *``.
 
 ## 1-hello_you
 
@@ -14,7 +14,7 @@ make ``/action`` last directory in ``PATH``. ``/action`` should be the last dire
 
 ## 3-paths
 
-count the number of directories in PATH
+Script that counts the number of directories in the ``PATH``.
 
 ## 4-global_variables
 
