@@ -18,7 +18,7 @@ Script that counts the number of directories in the ``PATH``.
 
 ## 4-global_variables
 
-Script that lists global variables
+lists global variables
 
 ## 5-local_variables
 
