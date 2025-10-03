@@ -26,7 +26,7 @@ Lists all local and environment variables and functions
 
 ## 6-create_local_variable
 
-New local variable
+New local variable with name ``BEST``
 
 ## 7-create_global_variable
 
